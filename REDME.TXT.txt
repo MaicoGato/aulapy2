@@ -1,1 +1,2 @@
 TESTE DA AULA DE PYTHON
+afinal o python estava instalado e nao estava kkkk, tive que reeintalar o mesmo pra dar certo
